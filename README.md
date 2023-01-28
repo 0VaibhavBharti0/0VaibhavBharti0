@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://in.pinterest.com/pin/842665780266288315)
 <h1 align="center">Hi 👋, I'm Vaibhav Bharti</h1>
 <h3 align="center">Just a Learner triying new things!!!</h3>
-(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6119727-Keyboard-Minimal-Animation")
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6119727-Keyboard-Minimal-Animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0vaibhavbharti0&label=Profile%20views&color=0e75b6&style=flat" alt="0vaibhavbharti0" /> </p>
 
