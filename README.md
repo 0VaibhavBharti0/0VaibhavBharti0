@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/vaibhavgimitt" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhavgimitt?logo=twitter&style=for-the-badge" alt="vaibhavgimitt" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development , DSA**
+- 🌱 I’m currently learning **UI/UX Designing , DSA**
 
 - 📫 How to reach me **vaibhavbharticlg@gmail.com**
 
